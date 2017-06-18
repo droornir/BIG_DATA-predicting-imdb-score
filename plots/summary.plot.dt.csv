@@ -1,0 +1,6 @@
+"genre","best.alg","alg.acc","best.col.i","best.col.j","best.loop.acc"
+"Action","rf","0.48125","reviews.sum","profit","0.475"
+"Adventure","rf","0.462686567164179","reviews.sum","gross","0.440298507462687"
+"Thriller","rf","0.502564102564103","reviews.sum","gross","0.461538461538462"
+"Drama","rf","0.477064220183486","reviews.sum","profit","0.437308868501529"
+"Crime","rf","0.553191489361702","reviews.sum","budget","0.50354609929078"
